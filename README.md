@@ -1,6 +1,10 @@
-# EECS_442-Computer-Vision
-Projects for EECS 442: Computer Vision
+# Computer-Vision
+Projects for Computer Vision
 
-Contains all projects from EECS 442: Computer Vision at University of Michigan
+Project 1:
+Project 2:
+Project 3:
+Project 4:
+Project 5:
 
 NB: Some databases may be missing, preventing the codes from running properly
